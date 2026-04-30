@@ -1,0 +1,15 @@
+@import "tailwindcss";  
+
+@layer utilities {
+  .bg-primary {
+    background-color: #84CC16;
+  }
+
+  .text-primary {
+    color: #acff99;
+  }
+}
+
+::-webkit-scrollbar {
+  @apply hidden;
+}
