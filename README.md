@@ -220,9 +220,3 @@ VITE_RAZORPAY_KEY_ID=your_razorpay_key_id
 3. Commit changes.
 4. Push and open a pull request.
 
-## Author
-
-**Name:** Krishna Kant Sharma  
-**Email:** krishnactive@gmail.com  
-**GitHub:** [krishnactive](https://github.com/krishnactive)  
-**LinkedIn:** [Krishna Kant Sharma](https://www.linkedin.com/in/krishna-kant-sharma-a64955230/)
